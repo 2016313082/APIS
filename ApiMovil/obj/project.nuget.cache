@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z5kaXynDNFpaZxztvpgHVDTwXbcvwkPdFgYyFSvibJcukPjBkguEOH2RY1Pebo9w5aQJrXcF8gIGqPRq6lkCAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\angel joaqun\\source\\repos\\ApiMovil\\ApiMovil\\ApiMovil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angel joaqun\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
